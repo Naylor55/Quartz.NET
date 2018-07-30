@@ -10,6 +10,10 @@ namespace Quartz.NET_Demo
     {
         static void Main(string[] args)
         {
+
         }
+        public void test() { }
     }
+
+
 }
