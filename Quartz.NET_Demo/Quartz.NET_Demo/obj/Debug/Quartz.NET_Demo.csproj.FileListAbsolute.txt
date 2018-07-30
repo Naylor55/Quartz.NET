@@ -1,0 +1,7 @@
+C:\Code\Naylor\GitHub\Quartz.NET\Quartz.NET_Demo\Quartz.NET_Demo\bin\Debug\Quartz.NET_Demo.exe.config
+C:\Code\Naylor\GitHub\Quartz.NET\Quartz.NET_Demo\Quartz.NET_Demo\bin\Debug\Quartz.NET_Demo.exe
+C:\Code\Naylor\GitHub\Quartz.NET\Quartz.NET_Demo\Quartz.NET_Demo\bin\Debug\Quartz.NET_Demo.pdb
+C:\Code\Naylor\GitHub\Quartz.NET\Quartz.NET_Demo\Quartz.NET_Demo\obj\Debug\Quartz.NET_Demo.csprojAssemblyReference.cache
+C:\Code\Naylor\GitHub\Quartz.NET\Quartz.NET_Demo\Quartz.NET_Demo\obj\Debug\Quartz.NET_Demo.csproj.CoreCompileInputs.cache
+C:\Code\Naylor\GitHub\Quartz.NET\Quartz.NET_Demo\Quartz.NET_Demo\obj\Debug\Quartz.NET_Demo.exe
+C:\Code\Naylor\GitHub\Quartz.NET\Quartz.NET_Demo\Quartz.NET_Demo\obj\Debug\Quartz.NET_Demo.pdb
