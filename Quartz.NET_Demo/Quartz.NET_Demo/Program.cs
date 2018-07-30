@@ -12,7 +12,10 @@ namespace Quartz.NET_Demo
         {
 
         }
-        public void test() { }
+        public void test()
+        {
+            int i = 0;        
+        }
     }
 
 
