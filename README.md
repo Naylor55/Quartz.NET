@@ -1,7 +1,7 @@
 # Quartz.NET
 Quartz.NET简单使用的Demo
 
-##Quartz.NET中的核心模块Scheduler、Job、JobDetail、Trigger
+Quartz.NET中的核心模块Scheduler、Job、JobDetail、Trigger
 
 Scheduler:实现调度的主体，负责调度任务的开始、结束，Scheduler中包含已注册的JobDetail和Trigger,并且，当Trigger中的条件得以触发时，Scheduler负责执行和Trigger相关联的Job，实现任务的调度。 Job:需要被调度的任务，Job必须实现IJob接口的Execute方法，而Execute方法的内容，其实也就是我们需要根据不同的需求自己实现的业务逻辑。 JobDetail:包含对Job的具体描述，包括Job的名称、所属的Group名称、以及Job的Type描述，用以Quartz.NET通过反射实现对Job的调用。 Trigger:触发器，描述调度的触发条件和时机。
 
