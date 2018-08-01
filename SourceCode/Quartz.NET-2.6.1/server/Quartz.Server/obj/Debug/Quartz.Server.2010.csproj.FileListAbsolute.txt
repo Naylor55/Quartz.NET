@@ -1,0 +1,12 @@
+C:\Code\Naylor\GitHub\Quartz.NET\SourceCode\Quartz.NET-2.6.1\build\4.0\Debug\Quartz.Server\quartz_jobs.xml
+C:\Code\Naylor\GitHub\Quartz.NET\SourceCode\Quartz.NET-2.6.1\build\4.0\Debug\Quartz.Server\App.config
+C:\Code\Naylor\GitHub\Quartz.NET\SourceCode\Quartz.NET-2.6.1\build\4.0\Debug\Quartz.Server\quartz.config
+C:\Code\Naylor\GitHub\Quartz.NET\SourceCode\Quartz.NET-2.6.1\build\4.0\Debug\Quartz.Server\Quartz.Server.exe.config
+C:\Code\Naylor\GitHub\Quartz.NET\SourceCode\Quartz.NET-2.6.1\build\4.0\Debug\Quartz.Server\Quartz.Server.XML
+C:\Code\Naylor\GitHub\Quartz.NET\SourceCode\Quartz.NET-2.6.1\build\4.0\Debug\Quartz.Server\Quartz.Server.exe
+C:\Code\Naylor\GitHub\Quartz.NET\SourceCode\Quartz.NET-2.6.1\build\4.0\Debug\Quartz.Server\Quartz.Server.pdb
+C:\Code\Naylor\GitHub\Quartz.NET\SourceCode\Quartz.NET-2.6.1\server\Quartz.Server\obj\Debug\Quartz.Server.2010.csprojAssemblyReference.cache
+C:\Code\Naylor\GitHub\Quartz.NET\SourceCode\Quartz.NET-2.6.1\server\Quartz.Server\obj\Debug\Quartz.Server.2010.csproj.CoreCompileInputs.cache
+C:\Code\Naylor\GitHub\Quartz.NET\SourceCode\Quartz.NET-2.6.1\server\Quartz.Server\obj\Debug\Quartz.Server.2010.csproj.CopyComplete
+C:\Code\Naylor\GitHub\Quartz.NET\SourceCode\Quartz.NET-2.6.1\server\Quartz.Server\obj\Debug\Quartz.Server.exe
+C:\Code\Naylor\GitHub\Quartz.NET\SourceCode\Quartz.NET-2.6.1\server\Quartz.Server\obj\Debug\Quartz.Server.pdb

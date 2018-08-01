@@ -5,3 +5,10 @@ C:\Code\Naylor\GitHub\Quartz.NET\Quartz.NET_Demo\Quartz.NET_Demo\obj\Debug\Quart
 C:\Code\Naylor\GitHub\Quartz.NET\Quartz.NET_Demo\Quartz.NET_Demo\obj\Debug\Quartz.NET_Demo.csproj.CoreCompileInputs.cache
 C:\Code\Naylor\GitHub\Quartz.NET\Quartz.NET_Demo\Quartz.NET_Demo\obj\Debug\Quartz.NET_Demo.exe
 C:\Code\Naylor\GitHub\Quartz.NET\Quartz.NET_Demo\Quartz.NET_Demo\obj\Debug\Quartz.NET_Demo.pdb
+C:\Code\Naylor\GitHub\Quartz.NET\Quartz.NET_Demo\Quartz.NET_Demo\bin\Debug\Quartz.dll
+C:\Code\Naylor\GitHub\Quartz.NET\Quartz.NET_Demo\Quartz.NET_Demo\bin\Debug\Quartz.pdb
+C:\Code\Naylor\GitHub\Quartz.NET\Quartz.NET_Demo\Quartz.NET_Demo\obj\Debug\Quartz.NET_Demo.csproj.CopyComplete
+C:\Code\Naylor\GitHub\Quartz.NET\Quartz.NET_Demo\Quartz.NET_Demo\bin\Debug\Common.Logging.dll
+C:\Code\Naylor\GitHub\Quartz.NET\Quartz.NET_Demo\Quartz.NET_Demo\bin\Debug\Common.Logging.pdb
+C:\Code\Naylor\GitHub\Quartz.NET\Quartz.NET_Demo\Quartz.NET_Demo\bin\Debug\Common.Logging.Core.dll
+C:\Code\Naylor\GitHub\Quartz.NET\Quartz.NET_Demo\Quartz.NET_Demo\bin\Debug\Common.Logging.Core.pdb

@@ -1,0 +1,8 @@
+C:\Code\Naylor\GitHub\Quartz.NET\SourceCode\Quartz.NET-2.6.1\build\4.0\Debug\Quartz\Quartz.dll
+C:\Code\Naylor\GitHub\Quartz.NET\SourceCode\Quartz.NET-2.6.1\build\4.0\Debug\Quartz\Quartz.pdb
+C:\Code\Naylor\GitHub\Quartz.NET\SourceCode\Quartz.NET-2.6.1\build\4.0\Debug\Quartz\Quartz.xml
+C:\Code\Naylor\GitHub\Quartz.NET\SourceCode\Quartz.NET-2.6.1\src\Quartz\obj\Debug\Quartz.2010.csprojAssemblyReference.cache
+C:\Code\Naylor\GitHub\Quartz.NET\SourceCode\Quartz.NET-2.6.1\src\Quartz\obj\Debug\Quartz.2010.csproj.CoreCompileInputs.cache
+C:\Code\Naylor\GitHub\Quartz.NET\SourceCode\Quartz.NET-2.6.1\src\Quartz\obj\Debug\Quartz.2010.csproj.CopyComplete
+C:\Code\Naylor\GitHub\Quartz.NET\SourceCode\Quartz.NET-2.6.1\src\Quartz\obj\Debug\Quartz.dll
+C:\Code\Naylor\GitHub\Quartz.NET\SourceCode\Quartz.NET-2.6.1\src\Quartz\obj\Debug\Quartz.pdb

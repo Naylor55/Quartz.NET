@@ -1,0 +1,259 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5.2": {
+      "Common.Logging/3.3.1": {
+        "type": "package",
+        "dependencies": {
+          "Common.Logging.Core": "3.3.1"
+        },
+        "compile": {
+          "lib/net40/Common.Logging.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Common.Logging.dll": {}
+        }
+      },
+      "Common.Logging.Core/3.3.1": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Common.Logging.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Common.Logging.Core.dll": {}
+        }
+      },
+      "Quartz/2.6.2": {
+        "type": "package",
+        "dependencies": {
+          "Common.Logging": "3.3.1"
+        },
+        "compile": {
+          "lib/net40/Quartz.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Quartz.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5.2/win": {
+      "Common.Logging/3.3.1": {
+        "type": "package",
+        "dependencies": {
+          "Common.Logging.Core": "3.3.1"
+        },
+        "compile": {
+          "lib/net40/Common.Logging.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Common.Logging.dll": {}
+        }
+      },
+      "Common.Logging.Core/3.3.1": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Common.Logging.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Common.Logging.Core.dll": {}
+        }
+      },
+      "Quartz/2.6.2": {
+        "type": "package",
+        "dependencies": {
+          "Common.Logging": "3.3.1"
+        },
+        "compile": {
+          "lib/net40/Quartz.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Quartz.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5.2/win-x64": {
+      "Common.Logging/3.3.1": {
+        "type": "package",
+        "dependencies": {
+          "Common.Logging.Core": "3.3.1"
+        },
+        "compile": {
+          "lib/net40/Common.Logging.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Common.Logging.dll": {}
+        }
+      },
+      "Common.Logging.Core/3.3.1": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Common.Logging.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Common.Logging.Core.dll": {}
+        }
+      },
+      "Quartz/2.6.2": {
+        "type": "package",
+        "dependencies": {
+          "Common.Logging": "3.3.1"
+        },
+        "compile": {
+          "lib/net40/Quartz.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Quartz.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5.2/win-x86": {
+      "Common.Logging/3.3.1": {
+        "type": "package",
+        "dependencies": {
+          "Common.Logging.Core": "3.3.1"
+        },
+        "compile": {
+          "lib/net40/Common.Logging.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Common.Logging.dll": {}
+        }
+      },
+      "Common.Logging.Core/3.3.1": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Common.Logging.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Common.Logging.Core.dll": {}
+        }
+      },
+      "Quartz/2.6.2": {
+        "type": "package",
+        "dependencies": {
+          "Common.Logging": "3.3.1"
+        },
+        "compile": {
+          "lib/net40/Quartz.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Quartz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Common.Logging/3.3.1": {
+      "sha512": "Wv07G5iQ+yUHI3RWqXGFys3N7Gd7vx+OYFGw4kcqfCSoWMJJLNVZqB/zyqPC8kqxE7Ezcj1YrU7zGC3/gUXF3A==",
+      "type": "package",
+      "path": "common.logging/3.3.1",
+      "files": [
+        "common.logging.3.3.1.nupkg.sha512",
+        "common.logging.nuspec",
+        "lib/net35/Common.Logging.dll",
+        "lib/net35/Common.Logging.pdb",
+        "lib/net35/Common.Logging.xml",
+        "lib/net40/Common.Logging.dll",
+        "lib/net40/Common.Logging.pdb",
+        "lib/net40/Common.Logging.xml"
+      ]
+    },
+    "Common.Logging.Core/3.3.1": {
+      "sha512": "geJ4X7mjL/KDXNMfJbq6TnZfZ0bbEFi1HpS3Ayv09ZKxBgKaL0KysAw4k8w7DSE/nk0nDwkQEmStRxBIpBlsAQ==",
+      "type": "package",
+      "path": "common.logging.core/3.3.1",
+      "files": [
+        "common.logging.core.3.3.1.nupkg.sha512",
+        "common.logging.core.nuspec",
+        "lib/net35/Common.Logging.Core.dll",
+        "lib/net35/Common.Logging.Core.pdb",
+        "lib/net35/Common.Logging.Core.xml",
+        "lib/net40/Common.Logging.Core.dll",
+        "lib/net40/Common.Logging.Core.pdb",
+        "lib/net40/Common.Logging.Core.xml",
+        "lib/portable-win+net40+sl40+wp7/Common.Logging.Core.XML",
+        "lib/portable-win+net40+sl40+wp7/Common.Logging.Core.dll",
+        "lib/portable-win+net40+sl40+wp7/Common.Logging.Core.pdb"
+      ]
+    },
+    "Quartz/2.6.2": {
+      "sha512": "KbK3SA/8r/27SFB/N79EHsghhmoCci1SX+svME+po9XIqxtsgYFFU6MMmDUoY3bD3Nz9OKLLSIx47wFFwl6Eiw==",
+      "type": "package",
+      "path": "quartz/2.6.2",
+      "files": [
+        "content/job_scheduling_data_2_0.xsd",
+        "lib/net35-client/Quartz.dll",
+        "lib/net35-client/Quartz.pdb",
+        "lib/net35-client/Quartz.xml",
+        "lib/net35/Quartz.dll",
+        "lib/net35/Quartz.pdb",
+        "lib/net35/Quartz.xml",
+        "lib/net40-client/Quartz.dll",
+        "lib/net40-client/Quartz.pdb",
+        "lib/net40-client/Quartz.xml",
+        "lib/net40/Quartz.dll",
+        "lib/net40/Quartz.pdb",
+        "lib/net40/Quartz.xml",
+        "quartz.2.6.2.nupkg.sha512",
+        "quartz.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5.2": [
+      "Quartz >= 2.6.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Cnayl\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Code\\Naylor\\GitHub\\Quartz.NET\\Quartz.NET_Demo\\Quartz.NET_Demo\\Quartz.NET_Demo.csproj",
+      "projectName": "Quartz.NET_Demo",
+      "projectPath": "C:\\Code\\Naylor\\GitHub\\Quartz.NET\\Quartz.NET_Demo\\Quartz.NET_Demo\\Quartz.NET_Demo.csproj",
+      "packagesPath": "C:\\Users\\Cnayl\\.nuget\\packages\\",
+      "outputPath": "C:\\Code\\Naylor\\GitHub\\Quartz.NET\\Quartz.NET_Demo\\Quartz.NET_Demo\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\Cnayl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net452"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net452": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net452": {
+        "dependencies": {
+          "Quartz": {
+            "target": "Package",
+            "version": "[2.6.2, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
